@@ -1,0 +1,2 @@
+# mylinux
+learning linux
